@@ -85,6 +85,31 @@ Generative Semi-Supervised Learning for Multivariate Time Series Imputation
 #### Interdiscipline
 Time Series Domain Adaptation via Sparse Associative Structure Alignment
 
+### 2022
+#### Anomaly Detection
+AnomalyKiTS: Anomaly Detection Toolkit for Time Series
+
+Clustering Interval-Censored Time-Series for Disease Phenotyping
+
+Towards a Rigorous Evaluation of Time-Series Anomaly Detection
+
+#### Analysis
+Training Robust Deep Models for Time-Series Domain: Novel Algorithms and Theoretical Analysis
+
+#### Representation Learning
+I-SEA: Importance Sampling and Expected Alignment-Based Deep Distance Metric Learning for Time Series Analysis and Embedding
+
+TS2Vec: Towards Universal Representation of Time Series
+
+#### Forecasting
+Reinforcement Learning Based Dynamic Model Combination for Time Series Forecasting
+
+CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting
+
+Mitigating Low Agricultural Productivity of Smallholder Farms in Africa: Time-Series Forecasting for Environmental Stressors
+
+#### Generation
+Conditional Loss and Deep Euler Scheme for Time Series Generation
 
 ## IJCAI
 ### 2019
