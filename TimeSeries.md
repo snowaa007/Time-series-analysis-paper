@@ -160,6 +160,18 @@ Multi-series Time-aware Sequence Partitioning for Disease Progression Modeling
 #### Unsupervised Domain Adaptation
 Adversarial Spectral Kernel Matching for Unsupervised Time Series Domain Adaptation
 
+###2022
+#### Classification
+T-SMOTE: Temporal-oriented Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification
+A Reinforcement Learning-Informed Pattern Mining Framework for Multivariate Time Series Classification
+#### Forecasting
+Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting
+Memory Augmented State Space Model for Time Series Forecasting
+DeepExtrema: A Deep Learning Approach for Forecasting Block Maxima in Time Series Data
+#### Anomaly Detection
+GRELEN: Multivariate Time Series Anomaly Detection from the Perspective of Graph Relational Learning
+Neural Contextual Anomaly Detection for Time Series
+
 ## SIGMOD
 ### 2019 
 #### Root-cause analysis
