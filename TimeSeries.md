@@ -380,6 +380,20 @@ Time Series Anomaly Detection for Cyber-physical Systems via Neural System Ident
 Apriori Convolutions for Highly Efficient and Accurate Time Series Classification
 
 
+### 2022
+#### Anomaly Detection
+Scaling Time Series Anomaly Detection to Trillions of Datapoints and Ultra-fast Arriving Data Streams
+Local Evaluation of Time Series Anomaly Detection Algorithms
+#### Forecasting
+Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting
+Multi-Variate Time Series Forecasting on Variable Subsets
+Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting
+Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting
+#### Representation Learning
+ProActive: Self-Attentive Temporal Point Process Flows for Activity Sequences
+Learning Differential Operators for Interpretable Time Series Modeling
+#### Classification
+Non-stationary Time-aware Kernelized Attention for Temporal Event Prediction
 ## ICDM
 ### 2019
 #### Analysis
@@ -422,10 +436,17 @@ Dual-Side Auto-Encoder for High-Dimensional Time Series Segmentation
 #### Classification
 Fast and Accurate Time Series Classification Through Supervised Interval Search
 
-
-
-
-
-
-
-
+### 2021
+#### Generating
+Towards Generating Real-World Time Series Data
+#### Continual Learning
+Continual Learning for Multivariate Time Series Tasks with Variable Input Dimensions
+#### Pattern Mining
+Mining Statistically Significant Paths in Time Series Data from an Unknown Network
+Spikelet: An Adaptive Symbolic Approximation for Finding Higher-Level Structure in Time Series
+#### Forecasting
+SSDNet: State Space Decomposition Neural Network for Time Series Forecasting
+#### Classification
+Gaussian Process Model Learning for Time Series Classification
+Contrast Profile: A Novel Time Series Primitive that Allows Classification in Real World Settings
+LIFE: Learning Individual FEatures for Multivariate Time Series Prediction with Missing Values
