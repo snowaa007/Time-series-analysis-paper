@@ -160,7 +160,7 @@ Multi-series Time-aware Sequence Partitioning for Disease Progression Modeling
 #### Unsupervised Domain Adaptation
 Adversarial Spectral Kernel Matching for Unsupervised Time Series Domain Adaptation
 
-###2022
+### 2022
 #### Classification
 T-SMOTE: Temporal-oriented Synthetic Minority Oversampling Technique for Imbalanced Time Series Classification
 A Reinforcement Learning-Informed Pattern Mining Framework for Multivariate Time Series Classification
@@ -191,6 +191,11 @@ RobustPeriod: Robust Time-Frequency Mining for Multiple Periodicity Detection
 #### Forecasting
 AutoAI-TS:AutoAI for Time Series Forecasting
 
+### 2022
+#### Classification
+dCAM: Dimension-wise Class Activation Map for Explaining Multivariate Data Series Classification
+#### Index
+Scalable Time Series Compound Infrastructure
 
 ## VLDB
 ### 2019
@@ -219,7 +224,29 @@ FlashP: An Analytical Pipeline for Real-time Forecasting of Time-Series Relation
 #### Monitoring
 Heracles: An Efficient Storage Model And Data Flushing For Performance Monitoring Timeseries
 
-
+### 2022
+#### Forecasting
+METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting
+AutoCTS: Automated Correlated Time Series Forecasting
+#### Pattern Mining
+Efficient Temporal Pattern Mining in Big Time Series Using Mutual Information
+NLC: Search Correlated Window Pairs on Long Time Series
+#### Anomaly Detection
+Unsupervised Time Series Outlier Detection with Diversity-Driven Convolutional Ensembles
+TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data
+Anomaly Detection in Time Series: A Comprehensive Evaluation
+A New Distributional Treatment for Time Series and An Anomaly Detection Investigation
+TimeEval: A Benchmarking Toolkit for Time Series Anomaly Detection Algorithms
+#### Decomposition
+OnlineSTL: Scaling Time Series Decomposition by 100x
+Time Series Data Encoding for Efficient Storage: A Comparative Analysis in Apache IoTDB
+Chimp: Efficient Lossless Floating Point Compression for Time Series Databases
+#### Imputation
+On Repairing Timestamps for Regular Interval Time Series
+#### Query
+SENSOR: Data-driven Construction of Sketch-based Visual Query Interfaces for Time Series Data
+#### Classification
+FedTSC: A Secure Federated Learning System for Interpretable Time Series Classification
 ## ICDE
 ### 2019
 #### Indexing
@@ -275,6 +302,23 @@ Scalable Model-Based Management of Correlated Dimensional Time Series in Modelar
 
 #### Database
 TS-Benchmark: A Benchmark for Time Series Database
+
+### 2022
+#### Anomaly Detection
+Robust and Explainable Autoencoders for Time Series Outlier Detection
+Anomaly Detection in Time Series with Robust Variational Quasi-Recurrent Autoencoders
+
+#### Classification
+IPS: Instance Profile for Shapelet Discovery for Time Series Classification
+Towards Backdoor Attack on Deep Learning based Time Series Classification
+Learning Evolvable Time-series Shapelets
+#### Forecasting
+Towards Spatio-Temporal Aware Traffic Time Series Forecasting
+
+#### Index
+Constructing Compact Time Series Index for Efficient Window Query Processing
+
+
 
 
 ## KDD
